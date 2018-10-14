@@ -1,0 +1,17 @@
+1.e-8	1.e-7	1
+2	p22	
+0	1
+0	
+150	135	145
+
+>>eps >>h >>slvMthNr 
+>>endClcNr >>endClcVrNm
+>>dplDnmFl >>dplItgrFl
+>>dmnFl
+>>maxCrclNr >>fstWrtCrclNr >>lstWrtCrclNr; 
+
+>eps -точность
+>endClcNr - 	0 -простая процедура до входа в предельный цикл
+		1 -бинарная процедура до входа в предельный цикл
+		2 -процедура расчета до цикла maxCrclNr
+x1=1  h=2.e-7

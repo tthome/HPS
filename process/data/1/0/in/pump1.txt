@@ -1,0 +1,8 @@
+0	0
+
+>>control characteristic number >>possible combination number
+control characteristic ids
+control characteristic states - phase number lookup table
+.
+.
+possible sochetanii number string

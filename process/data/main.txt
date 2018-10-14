@@ -1,0 +1,17 @@
+sgl	1
+>>calculate regim >>system class
+
+calculate regim
+sgl (GPrc) - calculate one limit or few simple circle
+lln - define max&min pressure line
+nrm - regulated max&min pressure line point
+(SPrc) - calculate series out parameter
+itr - iteration calculate procedure
+opt (OPrc) - optimization procedure
+
+system class
+1 -double action - two directed chambers
+2 -double action - back directed chambers
+3 -double action - rigth directed chambers
+4 -back action
+5 -rigth action

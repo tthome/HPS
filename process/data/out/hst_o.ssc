@@ -1,0 +1,4 @@
+guiImportData(FileName = "S:\\s-2-15\\data\\out\\o.txt", FileTypes = "ASCII file - whitespace delimited (asc;dat;txt;prn)", TargetDataFrame = "o", TargetStartCol = "<END>", TargetInsertOverwrite = "Create new data set", NameRowAuto = "Auto", NameColAuto = "Auto", StartCol = 1, EndCol = "<END>", StartRow = 1, EndRow = "<END>", PageNumberAuto = "Auto", StringsAsFactors = T, SortFactorLevels = T, LabelsAsNumbers = F, CenturyCutoffYear = 1930, ASCIIDelimiters = "Tabs (\\t) and/or spaces ( )", KeepOrDropList = "<ALL>", SeparateDelimiters = F, ASCIIDateInFormat = "dd.MM.yyyy", ASCIITimeInFormat = "H:mm:ss")
+
+guiClose("data.frame", "o")
+

@@ -1,0 +1,13 @@
+p3fl.0		1
+sgm0.0		1
+sgm1.0		1
+x1_.0		1
+tCrcl.10	1
+vImpct.21	1
+xMax.21		1
+pMin.22		1
+pMax.22		1
+pMdl.0		1
+E.0		1
+N.0		1	7	0
+eta.0		1	8	0
